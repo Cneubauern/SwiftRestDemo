@@ -14,6 +14,7 @@
 		9D12D6F51A90B1340033304A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D12D6F41A90B1340033304A /* Images.xcassets */; };
 		9D12D6F81A90B1340033304A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9D12D6F61A90B1340033304A /* LaunchScreen.xib */; };
 		9D12D7041A90B1340033304A /* SwiftRestDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D12D7031A90B1340033304A /* SwiftRestDemoTests.swift */; };
+		9D12D70E1A90B7230033304A /* travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = 9D12D70D1A90B7230033304A /* travis.yml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		9D12D6FD1A90B1340033304A /* SwiftRestDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftRestDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D12D7021A90B1340033304A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D12D7031A90B1340033304A /* SwiftRestDemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftRestDemoTests.swift; sourceTree = "<group>"; };
+		9D12D70D1A90B7230033304A /* travis.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = travis.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				9D12D6F61A90B1340033304A /* LaunchScreen.xib */,
 				9D12D6EC1A90B1340033304A /* SwiftRestDemo.xcdatamodeld */,
 				9D12D6E81A90B1340033304A /* Supporting Files */,
+				9D12D70D1A90B7230033304A /* travis.yml */,
 			);
 			path = SwiftRestDemo;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 				9D12D6F31A90B1340033304A /* Main.storyboard in Resources */,
 				9D12D6F81A90B1340033304A /* LaunchScreen.xib in Resources */,
 				9D12D6F51A90B1340033304A /* Images.xcassets in Resources */,
+				9D12D70E1A90B7230033304A /* travis.yml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
